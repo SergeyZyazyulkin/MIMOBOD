@@ -1,1 +1,1 @@
-# MIMOBOD
+Лабораторная работа была выполнена в Jupyter Notebook. Поэтому для её запуска необходимо открыть в Jupyter Notebook файл zyazyulkin_jobs.ipynb. Также может понадобиться установить недостающие модули: scrapy, matplotlib.
